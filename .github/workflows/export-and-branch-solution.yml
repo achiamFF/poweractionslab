@@ -26,8 +26,8 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: https://make.powerapps.com/environments/48340725-1b85-466e-a288-1aab73bf7013/home
-  USERNAME: achiam@fidelityfactory.com
+  ENVIRONMENT_URL: https://org1c78c269.crm3.dynamics.com/
+  USERNAME: achiam@fidelitydev.onmicrosoft.com
 
 
 jobs:
